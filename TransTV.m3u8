@@ -1,0 +1,7 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://anevia114.mncnow.id/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_6690_eng=2.m3u8
+

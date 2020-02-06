@@ -3,5 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://anevia114.mncnow.id/live/eds/TransTV/sa_hls/TransTV-avc1_1000000=7-mp4a_6690_eng=2.m3u8
-
+https://etslive-2-vidio-com.akamaized.net/exp=1581121178~acl=/hls-p/ingest_733_*/*~hmac=23ea2150a06535ab0230f99eabe5947bc3ac3e8449f7a724a9e8b154464e9c3c/hls-p/ingest_733_720p/index.m3u8
